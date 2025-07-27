@@ -6,3 +6,5 @@
 2. *"adult.csv"* is the dataset that has been used for employee salary predicition.
 - This dataset originally contains several columns (age, workclas, fnlwgt, education, educational-num, marital-status, occupation, relationship, race, gender, capital-gain, capital-loss, hours-per-week, native-country, income)
 - Out of all the attributes, 'income' was used as the output attribute, some were dropped as they were redundant for the prediction and rest were used for the prediction.
+
+<img width="904" height="855" alt="image" src="https://github.com/user-attachments/assets/db523341-8f9c-46a4-9e6a-c48400295aaf" />
